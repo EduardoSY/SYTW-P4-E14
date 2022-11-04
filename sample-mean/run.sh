@@ -2,6 +2,7 @@
 # Cambio increible no me lo creo que increible es
 # Make sure only root can run our script
 if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as user from group e14" 1>&2
    echo "This script must be run as normal user" 1>&2
    exit 1
 fi
