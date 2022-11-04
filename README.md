@@ -2,4 +2,4 @@
 
 Manager: Eduardo Da Silva
 Colaborador1: Marcos Jeśus Santana Ramos
-Colaborador2: Jonay Estévez Díaz
+Colaborador2: Jonay Estévez Día
