@@ -1,5 +1,5 @@
 # SYTW-P4-E14
-
-Manager: Eduardo Da Silva
-Colaborador1: Marcos Jeśus Santana Ramos
-Colaborador2: Jonay Estévez Díaz
+## Integrantes
+- Eduardo Da Silva Yanes alu0101104911
+- Jonay Estévez Díaz alu0101100586
+- Marcos Jesús Santana Ramos alu0101033471
